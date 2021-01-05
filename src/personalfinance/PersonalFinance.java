@@ -11,14 +11,11 @@ import java.awt.FontFormatException;
 import java.awt.GraphicsEnvironment;
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Date;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author savin
+ * @author savinova
  */
 public class PersonalFinance {
 
@@ -28,7 +25,7 @@ public class PersonalFinance {
     public static void main(String[] args) {
        init();
        //System.out.println(Text.get("PROGRAM_NAME"));
-       System.out.println(Arrays.toString(Text.getMonths()));
+       //System.out.println(Arrays.toString(Text.getMonths()));
     }
     private static void init(){
         try {

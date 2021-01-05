@@ -9,7 +9,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author savin
+ * @author savinova
  */
 final public class Text {
     
